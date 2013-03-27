@@ -9,25 +9,19 @@ Malaysia has one of the largest MongoDB communities in South East Asia and many 
 We have started a collection of presentations and source-code that the group shares.
 
 # Table of MUG Contents:
-* KL MUG 05: [Searching MongoDB](https://www.dropbox.com/sh/njuy7onxvoft1du/loOZnsf6wp) - Source Code by [Tristan Gomez](http://twitter.com/parasquid)
+
+* MongoDB Day KL 2013 (KL MUG 13): [State of MongoDB in Malaysia](http://www.slideshare.net/marksmalley1/kl-mug13) - Slideshare by [Mark Smalley](http://twitter.com/m_smalley)
+* MongoDB Day KL 2013 (KL MUG 13): [State of MongoDB in Malaysia](https://github.com/r1dotmy/klmugs/blob/master/presentations/mongo-days-2013/KL-MUG-13.pdf) - PDF by [Mark Smalley](http://twitter.com/m_smalley)
+* MongoDB Day KL 2013 (KL MUG 13): [State of MongoDB in Malaysia](https://github.com/r1dotmy/klmugs/blob/master/presentations/mongo-days-2013/KL-MUG-13.pptx) - PowerPoint by [Mark Smalley](http://twitter.com/m_smalley)
+* MongoDB Day KL 2013 (KL MUG 13): [MongoDS and Says.com](https://github.com/r1dotmy/klmugs/blob/master/presentations/mongo-days-2013/KL-MUG-13.pptx) - PDF by [Arzumy](http://twitter.com/arzumy)
+* MongoDB Day KL 2013 (KL MUG 13): [MongoDS and Says.com](https://github.com/r1dotmy/klmugs/blob/master/presentations/mongo-days-2013/SAYS-KLMUG-March.ppt) - PowerPoint by [Arzumy](http://twitter.com/arzumy)
+* MongoDB Day KL 2013 (KL MUG 13): [MongoDS and Says.com](https://github.com/r1dotmy/klmugs/blob/master/presentations/mongo-days-2013/SAYS-KLMUG-March.key) - Keynote by [Arzumy](http://twitter.com/arzumy)
 
 -------------------------------------------------------------------------
 
-* KL MUG 06: [Over-View](http://www.joshuatly.com/kuala-lumpur-mongodb-user-group-6-notes-recording/) - Blog Post by [Lien Yu](http://twitter.com/joshualty)
-* KL MUG 06: [Over-View](http://dl.dropbox.com/u/5677336/KLMUG-2012-05.mp3) - Audio-Recording by [Lien Yu](http://twitter.com/joshualty)
-* KL MUG 06: [GridFS](http://www.slideshare.net/marksmalley1/serving-images-with-gridfs) - Lightening Talk Presentation by [Mark Smalley](http://twitter.com/m_smalley)
-* KL MUG 06: [High Availability + Replica-Sets with MongoDB](http://www.shaolintiger.com/2012/05/07/high-availability-mongodb-replica-sets-a-how-to-kinda-tutorial/) - Blog Post by [Gareth Davies](http://twitter.com/shaolintiger)
-* KL MUG 06: [High Availability + Replica-Sets with MongoDB](http://www.slideshare.net/shaolintiger/high-availabiltity-replica-sets-with-mongodb) - Presentation by [Gareth Davies](http://twitter.com/shaolintiger)
-
--------------------------------------------------------------------------
-
-* KL MUG 07: [MongoDB MapReduce](http://plan49.com/presentations/klmug-mapreduce) - Blog Post by [Tristan Gomez](http://twitter.com/parasquid)
-* KL MUG 07: [MongoDB MapReduce](http://plan49.com/attachments/klmug-mapreduce.pdf) - PDF by [Tristan Gomez](http://twitter.com/parasquid)
-
--------------------------------------------------------------------------
-
-* KL MUG 09: [Keynote](http://www.slideshare.net/marksmalley1/kl-mug-9) - Presentation by [Mark Smalley](http://twitter.com/m_smalley)
-* KL MUG 09: [Intro to Mongoose](https://github.com/conancat/klmug-mongoose) - Source Code by [Grey Ang](http://twitter.com/conancat)
+* KL MUG 12: [Keynote](http://www.slideshare.net/marksmalley1/kl-mug12) - Presentation by [Mark Smalley](http://twitter.com/m_smalley)
+* KL MUG 12: [MongoDB and Ruby](http://www.slideshare.net/parasquid1/one-year-with-mongo-db-klmug-presentation) - Presentation by [Tristan Gomez](http://twitter.com/parasquid)
+* KL MUG 12: [Rapid API Development on MongoDB](http://www.slideshare.net/hjelmdaniel/rapid-api-development-on-mongo-db) - Presentation by [Daniel Hjelm](http://twitter.com/dhjelm)
 
 -------------------------------------------------------------------------
 
@@ -39,19 +33,40 @@ We have started a collection of presentations and source-code that the group sha
 
 -------------------------------------------------------------------------
 
-* KL MUG 12: [Keynote](http://www.slideshare.net/marksmalley1/kl-mug12) - Presentation by [Mark Smalley](http://twitter.com/m_smalley)
-* KL MUG 12: [MongoDB and Ruby](http://www.slideshare.net/parasquid1/one-year-with-mongo-db-klmug-presentation) - Presentation by [Tristan Gomez](http://twitter.com/parasquid)
-* KL MUG 12: [Rapid API Development on MongoDB](http://www.slideshare.net/hjelmdaniel/rapid-api-development-on-mongo-db) - Presentation by [Daniel Hjelm](http://twitter.com/dhjelm)
+* KL MUG 09: [Keynote](http://www.slideshare.net/marksmalley1/kl-mug-9) - Presentation by [Mark Smalley](http://twitter.com/m_smalley)
+* KL MUG 09: [Intro to Mongoose](https://github.com/conancat/klmug-mongoose) - Source Code by [Grey Ang](http://twitter.com/conancat)
 
+-------------------------------------------------------------------------
+
+* KL MUG 07: [MongoDB MapReduce](http://plan49.com/presentations/klmug-mapreduce) - Blog Post by [Tristan Gomez](http://twitter.com/parasquid)
+* KL MUG 07: [MongoDB MapReduce](http://plan49.com/attachments/klmug-mapreduce.pdf) - PDF by [Tristan Gomez](http://twitter.com/parasquid)
+
+-------------------------------------------------------------------------
+
+* KL MUG 06: [Over-View](http://www.joshuatly.com/kuala-lumpur-mongodb-user-group-6-notes-recording/) - Blog Post by [Lien Yu](http://twitter.com/joshualty)
+* KL MUG 06: [Over-View](http://dl.dropbox.com/u/5677336/KLMUG-2012-05.mp3) - Audio-Recording by [Lien Yu](http://twitter.com/joshualty)
+* KL MUG 06: [GridFS](http://www.slideshare.net/marksmalley1/serving-images-with-gridfs) - Lightening Talk Presentation by [Mark Smalley](http://twitter.com/m_smalley)
+* KL MUG 06: [High Availability + Replica-Sets with MongoDB](http://www.shaolintiger.com/2012/05/07/high-availability-mongodb-replica-sets-a-how-to-kinda-tutorial/) - Blog Post by [Gareth Davies](http://twitter.com/shaolintiger)
+* KL MUG 06: [High Availability + Replica-Sets with MongoDB](http://www.slideshare.net/shaolintiger/high-availabiltity-replica-sets-with-mongodb) - Presentation by [Gareth Davies](http://twitter.com/shaolintiger)
+
+-------------------------------------------------------------------------
+
+* KL MUG 05: [Searching MongoDB](https://www.dropbox.com/sh/njuy7onxvoft1du/loOZnsf6wp) - Source Code by [Tristan Gomez](http://twitter.com/parasquid)
+
+-------------------------------------------------------------------------
 
 # More Information on MongoDB:
 * KL MUG [Facebook Group](https://facebook.com/groups/klmug/)
 * KL MUG on [Twitter](https://twitter.com/klmug/)
 
+-------------------------------------------------------------------------
+
 # Other MongoDB Presentations in Malaysia:
 * [MOSC2012](http://mosc.my) Presentation - [Building High-Performance Web-Applications with PHP and MongoDB](http://www.slideshare.net/r1dotmy/mosc2012-building-highperformance-webapplication-with-php-mongodb) by [Mark Smalley](http://twitter.com/m_smalley)
 * [WebCampKL](http://webcamp.my) CMS Showdown - [Introducing MongoPress - Presentation](http://www.slideshare.net/marksmalley1/introducing-mongopress) by [Mark Smalley](http://twitter.com/m_smalley)
 * [WebCampKL](http://webcamp.my) NoSQL Showdown - [Why I Believe MongoDB is The Dog's Bollocks](http://www.slideshare.net/marksmalley1/why-i-believe-mongodb-is-the-dogs-bollocks) by [Mark Smalley](http://twitter.com/m_smalley)
+
+-------------------------------------------------------------------------
 
 # More Information on our Sponsors:
 * [10gen](https://10gen.com)  - Makers of MongoDB
