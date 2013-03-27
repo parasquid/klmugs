@@ -1,6 +1,6 @@
 # KL MUG on GitHub
 
-The Kuala Lumpur MongoDB USer-Group is sponsored by [10gen](http://10gen.com) and [R1](http://r1.my)
+The Kuala Lumpur MongoDB User-Group is sponsored by [10gen](http://10gen.com) and [R1](http://r1.my)
 
 It was formed in September 2011 and has since been meeting on a regular monthly basis to discuss all things MongoDB.
 
