@@ -40,7 +40,7 @@ We have started a collection of presentations and source-code that the group sha
 
 -------------------------------------------------------------------------
 
-* KL MUG 08: [Simple Analytics with MongoDB](https://github.com/rossaffandy/klmugs/tree/master/presentations/klmug-8/klmug presentation.ppt) - Presentation by [Ross Affandy](http://twitter.com/rossaffandy)
+* KL MUG 08: [Simple Analytics with MongoDB](https://github.com/r1dotmy/klmugs/raw/master/presentations/klmug-8/klmug%20presentation.ppt) - Presentation by [Ross Affandy](http://twitter.com/rossaffandy)
 
 -------------------------------------------------------------------------
 
