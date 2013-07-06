@@ -2,6 +2,8 @@
 
 The Kuala Lumpur MongoDB User-Group is sponsored by [10gen](http://10gen.com) and [R1](http://r1.my)
 
+Core Contributor: [Planyourwedding.MY](http://www.planyourwedding.my)
+
 It was formed in September 2011 and has since been meeting on a regular monthly basis to discuss all things MongoDB.
 
 Malaysia has one of the largest MongoDB communities in South East Asia and many companies using the database in production.
@@ -35,6 +37,10 @@ We have started a collection of presentations and source-code that the group sha
 
 * KL MUG 09: [Keynote](http://www.slideshare.net/marksmalley1/kl-mug-9) - Presentation by [Mark Smalley](http://twitter.com/m_smalley)
 * KL MUG 09: [Intro to Mongoose](https://github.com/conancat/klmug-mongoose) - Source Code by [Grey Ang](http://twitter.com/conancat)
+
+-------------------------------------------------------------------------
+
+* KL MUG 08: [Simple Analytics with MongoDB](https://github.com/rossaffandy/klmugs/tree/master/presentations/klmug-8/klmug presentation.ppt) - Presentation by [Ross Affandy](http://twitter.com/rossaffandy)
 
 -------------------------------------------------------------------------
 
