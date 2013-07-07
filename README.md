@@ -67,8 +67,8 @@ We have started a collection of presentations and source-code that the group sha
 
 -------------------------------------------------------------------------
 
-# Other MongoDB Presentations in Malaysia:
-* [MOSC2012](http://mosc.my) Presentation - [Building High-Performance Web-Applications with PHP and MongoDB](http://www.slideshare.net/r1dotmy/mosc2012-building-highperformance-webapplication-with-php-mongodb) by [Mark Smalley](http://twitter.com/m_smalley)
+# Other Presentations in Malaysia:
+* [MOSC2012](http://mosc.my) Presentation - [Building High-Performance Web-Applications with PHP and MongoDB](http://www.slideshare.net/r1dotmy/mosc2012-building-highperformance-webapplication-with-php-mongodb) by [Mark](http://twitter.com/m_smalley)
 * [WebCampKL](http://webcamp.my) CMS Showdown - [Introducing MongoPress - Presentation](http://www.slideshare.net/marksmalley1/introducing-mongopress) by [Mark Smalley](http://twitter.com/m_smalley)
 * [WebCampKL](http://webcamp.my) NoSQL Showdown - [Why I Believe MongoDB is The Dog's Bollocks](http://www.slideshare.net/marksmalley1/why-i-believe-mongodb-is-the-dogs-bollocks) by [Mark Smalley](http://twitter.com/m_smalley)
 
