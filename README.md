@@ -4,9 +4,7 @@ The Kuala Lumpur MongoDB User-Group is sponsored by [10gen](http://10gen.com) an
 
 Core Contributors: [PlanYourWedding](http://www.planyourwedding.my), [MindValley](http://mindvalley.com) and [Drupal Malaysia](https://www.facebook.com/groups/drupalmy/)
 
-It was formed in September 2011 and has since been meeting on a regular monthly basis to discuss all things MongoDB.
-
-Malaysia has one of the largest MongoDB communities in South East Asia and many companies using the database in production.
+It was formed in September 2011 and has since been meeting on a regular monthly basis to discuss all things MongoDB. Malaysia has one of the largest MongoDB communities in South East Asia and many companies using the database in production.
 
 We have started a collection of presentations and source-code that the group shares.
 
